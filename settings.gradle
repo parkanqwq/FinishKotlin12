@@ -1,0 +1,2 @@
+rootProject.name = "Finish Kotlin 12"
+include ':app'
