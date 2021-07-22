@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Finish Kotlin 12</string>
+    <string name="app_info">debug_version</string>
 </resources>
